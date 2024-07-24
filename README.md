@@ -3,5 +3,5 @@ My persenal blog
 
 ## Pages:
 
-[RAG-Investigate](pages/RAG-Investigate.md)
+[RAG-Investigate](_pages/papers/RAG-Investigate.md)
 
