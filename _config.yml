@@ -5,6 +5,7 @@ plugins:
 title: Bin.Liang's Blog
 description: Sharing the interesting!
 
-header_pages: _pages/header/*.html
+header_pages: 
+  - resume.html
 
 
