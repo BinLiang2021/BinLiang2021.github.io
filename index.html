@@ -6,16 +6,16 @@
     <meta name="description" content="My personal blog">
 </head>
 <body>
-    <nav>
+    <h1>Bin.Liang's sharing space.</h1>
+    <!-- <nav>
         <ul>
             {% for page in site.header_pages %}
                 <li><a href="{{ page }}">{{ page | remove: '_pages/header/' | remove: '.html' }}</a></li>
             {% endfor %}
         </ul>
-    </nav>
-    <div>
+    </nav> -->
+    <!-- <div>
         <h2>最新文章</h2>
-        <!-- 示例：列出_papers目录下的文章 -->
         {% for paper in site.pages %}
             {% if paper.path contains 'papers' %}
                 <div>
@@ -24,6 +24,6 @@
                 </div>
             {% endif %}
         {% endfor %}
-    </div>
+    </div> -->
 </body>
 </html>
